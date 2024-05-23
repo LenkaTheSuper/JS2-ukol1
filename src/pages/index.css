@@ -1,0 +1,4 @@
+    .topping--selected {
+    border: 2px bold darkgreen;
+    background-color: lightgreen;
+}
